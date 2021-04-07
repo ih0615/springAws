@@ -1,0 +1,10 @@
+com/springAws/www/web/dto/HelloResponseDtoTest.java
+ com.springAws.www.web.dto.HelloResponseDtoTest
+com/springAws/www/web/HelloControllerTest.java
+ com.springAws.www.web.HelloControllerTest
+com/springAws/www/web/domain/posts/PostRepositoryTest.java
+ com.springAws.www.web.domain.posts.PostRepositoryTest
+com/springAws/www/web/PostsApiControllerTest.java
+ com.springAws.www.web.PostsApiControllerTest
+com/springAws/www/web/IndexController.java
+ com.springAws.www.web.IndexController
